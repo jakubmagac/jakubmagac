@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Angular
+- 🌱 Getting better at React
 
 <!--
 **jakubmagac/jakubmagac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
